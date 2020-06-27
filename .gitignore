@@ -1,0 +1,4 @@
+./scripts/test.py
+./scripts/__pycache__
+.vscode
+./data/self-built-masked-face-recognition-dataset
