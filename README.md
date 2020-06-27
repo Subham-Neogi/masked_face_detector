@@ -8,7 +8,7 @@ This project is made for BLINKML. Using the pretrained [OpenCV’s deep learning
 python scripts/face_detection_video.py --prototxt models/deploy.prototxt.txt --model models/res10_300x300_ssd_iter_140000.caffemodel --saved checkpoint/
 ```
 
-### Demo
+## Demo
 
 ![MASK DETECTOR DEMO](results/maskdetector.gif)
 
